@@ -1,1 +1,3 @@
 # dio-class-business-card-app
+
+This project is part of the DIO bootcamp challenge, offered by Santander, whose objective was to make a native application for creating custom cards, so it was developed in Kotlin (Android Studio), therefore I must say that there is a lot of room for improvement and when I get more experience the plan is to come back to add the improvements required, but already offers in addition to a great adaptable design for both DarkMode and LightMode on your cell phone, it also has card animation.   Also, when your card is made, it will be saved in the database, and therefore will not be deleted when you exit the application.
